@@ -88,6 +88,6 @@ for index, row in accuracy_data.iterrows():
 
 plt.tight_layout()
 plt.show()
-```
 
-i want you to make a streamlit ui for this code and it should be cool,great,eye catching ,jaw dropping
+
+
