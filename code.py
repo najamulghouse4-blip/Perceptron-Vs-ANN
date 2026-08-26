@@ -10,7 +10,6 @@ from sklearn.metrics import accuracy_score, confusion_matrix,classification_repo
 from sklearn.linear_model import Perceptron
 
 import tensorflow as tf
-from tensorflow import keras
 from tensorflow.keras.models  import Sequential
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.layers import Dropout
